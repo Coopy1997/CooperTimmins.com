@@ -3,8 +3,7 @@
 A minimal, dark-themed developer portfolio built with Next.js and Tailwind CSS.
 Full-stack work, client projects, and interactive builds, all in one place.
 
-**Live site:** https://cooper-portfolio.vercel.app
-
+**Live site:** CooperTimmins.com
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
 ![React](https://img.shields.io/badge/React-19-149eca?logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38bdf8?logo=tailwindcss&logoColor=white)
@@ -58,46 +57,12 @@ This repository is the source for my personal portfolio site.
 | Blackjack 3D           | Browser-based 3D blackjack built with Three.js                    |
 | Commercial Catamaran   | Marketing site for a commercial catamaran business                |
 
-## Getting started
-
-```bash
-# install dependencies
-npm install
-
-# run the dev server (http://127.0.0.1:3000)
-npm run dev
-
-# create a production build
-npm run build
-
-# serve the production build
-npm run start
-```
-
-## Project structure
-
-```
-src/
-  app/
-    layout.jsx        # root layout, fonts, metadata
-    page.jsx          # page composition
-    globals.css       # design tokens and global styles
-  components/         # Nav, Home, Projects, Experience, Contact, Footer, effects
-  data/
-    portfolio.js      # all copy, projects, and links in one place
-public/
-  images/             # project screenshots
-  svg/                # tech stack logos
-```
-
-All content lives in `src/data/portfolio.js`, so updating copy or adding a project
-is a single-file change.
 
 ## Contact
 
 - **Email:** CooperTimmins1@gmail.com
 - **Credly:** https://www.credly.com/users/cooper-timmins/badges
-- **Portfolio:** https://cooper-portfolio.vercel.app
+- **Portfolio:** https://coopertimmins.com
 
 ---
 
